@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">H071211078_Final Mobile</string>
+    <string name="search_menu_title">Search</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="synopsis">Synopsis</string>
+    <string name="tv_shows">TV Shows</string>
+    <string name="movies">Movies</string>
+    <string name="favorites">Favorites</string>
+    <string name="error_connection">Please check your internet connection</string>
+    <string name="btn_refrsh_desc">Refresh button</string>
 </resources>
