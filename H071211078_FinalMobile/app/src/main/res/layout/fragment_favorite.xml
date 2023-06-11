@@ -23,6 +23,7 @@
             android:layout_height="wrap_content"
             android:text="@string/favorites"
             android:textSize="34sp"
+            android:fontFamily="sans-serif-condensed"
             android:textColor="@color/black"/>
 
     </LinearLayout>

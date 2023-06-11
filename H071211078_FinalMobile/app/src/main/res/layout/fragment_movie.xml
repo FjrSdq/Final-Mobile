@@ -23,6 +23,7 @@
             android:layout_height="wrap_content"
             android:textColor="@color/black"
             android:text="@string/movies"
+            android:fontFamily="sans-serif-condensed"
             android:textSize="34sp"/>
 
     </LinearLayout>
